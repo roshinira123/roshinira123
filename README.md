@@ -1,5 +1,5 @@
 
-# Hi, I'm Roshini! 👋
+# Hi, I'm Roshini! 👩🏽‍💻
 
 
 ## 🚀 About Me
