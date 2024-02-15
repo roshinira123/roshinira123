@@ -3,7 +3,11 @@
 
 
 ## 🚀 About Me
-I am a Computer Science with Business Applications Student at UC Riverside. I am highly motivated, self-driven with strong leadership qualities, and looking for challenging and innovative roles in tech, which will enable me to utilize and grow my skills.
+Hello! I'm Roshini Rangarajan, a Computer Science with Business Applications major at UC Riverside. 
+
+Passionate about the intersection of technology and business, I'm on a quest to innovate and drive meaningful change in the tech industry. Looking for opportunities in software development, product management, and technology consulting, I thrive in fast-paced, collaborative environments where innovation is encouraged and am eager to tackle challenging roles that allow me to leverage my diverse skill set.  As a Web Developer for ACM and a Consultant Intern at Highlander Consulting Group, I've honed my skills in both technical and business domains, delivering results that drive growth and efficiency. I'm passionate about leveraging technology to empower communities and drive positive change. I'm excited to collaborate with like-minded professionals who share my vision for a more inclusive and innovative tech industry. 
+
+If you're interested in connecting or discussing potential opportunities, I'd love to hear from you! 
 
 
 ## 🛠 Skills
